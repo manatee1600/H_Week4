@@ -12,5 +12,4 @@ public class Week4 {
         System.out.println(count);
         System.out.println(hasYamada);
     }
-
 }
